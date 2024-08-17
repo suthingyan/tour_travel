@@ -50,12 +50,12 @@
                                                 <div class="profile6il2i row">
                                                     <div class="col-md-6">
                                                         <div class="profile6il2il">
-                                                            <h6 class="font_14 mb-0">Starting From:<br>
+                                                            <h6 class="font_14 mb-0">
                                                                 <span class="fw-bold"><span class="fs-4 col_green">MMK
                                                                         {{ $p->price }}</span>
                                                                     <span
                                                                         class="text-decoration-line-through text-muted"></span></span><br>
-                                                                <span class="font_12">TAXES INCL/PERS</span>
+                                                                
                                                             </h6>
                                                         </div>
                                                     </div>
@@ -92,13 +92,13 @@
                                                             </div>
                                                             <div class="col-md-6">
                                                                 <p>{!! $p->description !!}</p>
-                                                                <h6 class="font_14 mb-0">Starting From:<br>
+                                                                <h6 class="font_14 mb-0">
                                                                     <span class="fw-bold"><span
                                                                             class="fs-4 col_green">MMK
                                                                             {{ $p->price }}</span>
                                                                         <span
                                                                             class="text-decoration-line-through text-muted"></span></span><br>
-                                                                    <span class="font_12">TAXES INCL/PERS</span>
+                                                                    
                                                                 </h6>
                                                                 <p>{{ $p->tag->name }}</p>
                                                             </div>

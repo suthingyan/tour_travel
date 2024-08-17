@@ -95,7 +95,7 @@
                                 <tr>
                                     <th> No </th>
                                     <th> Order Number </th>
-                                    <th> Product Name </th>
+                                    <th> City Name </th>
                                     <th> Qty & Price </th>
                                     <th> Total Price </th>
                                     <th> Total Qty </th>
@@ -128,7 +128,7 @@
                                         </td>
                                         <td>MMK {{ $o->total_amt }}</td>
                                         <td>{{ $o->total_qty }}</td>
-                                        <td>{{ $o->created_at->format('Y-m-d H:i:s') }}</td>
+                                        <td>{{ $o->created_at->format('Y-m-d') }}</td>
                                         <td>{{ $o->note }}</td>
                                         <td
                                             class="{{ $o->status == 'Pending' ? 'text-warning' : 'text-success' }} fw-bold">

@@ -40,7 +40,7 @@
                                                     <th> Township </th>
                                                     <th> Address </th>
                                                     <th> Payment Image </th>
-                                                    <th> Payment Name </th>
+                                                    <th> Payment Type </th>
                                                     <th> Payment Owner Name </th>
                                                     <th> Payment Phone Number </th>
                                                     <th> Note </th>
