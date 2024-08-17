@@ -1,0 +1,9 @@
+# Query: KNC Tour
+# ContextLines: 1
+
+1 result - 1 file
+
+resources/views/user/footer.blade.php:
+  59                          <div class="footer_2l">
+  60:                             <p class="mb-0 text-white-50">© <?= date('Y') ?> SYLA Tour. All Rights Reserved |
+  61                                  Design

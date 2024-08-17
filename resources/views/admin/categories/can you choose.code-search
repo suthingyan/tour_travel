@@ -1,0 +1,9 @@
+# Query: can you choose
+# ContextLines: 1
+
+1 result - 1 file
+
+resources/views/user/footer.blade.php:
+  50                              <h5 class="text-white mt-1 mb-3"> We Are Here</h5>
+  51:                             <p class="text-white-50">Cchoose my services for your happiness.</p>
+  52  
